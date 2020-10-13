@@ -1,3 +1,3 @@
 # Pokedex
 
-A react exercise making a Pokedex. 
+A React exercise making a Pokedex. 
