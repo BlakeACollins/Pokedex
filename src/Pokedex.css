@@ -1,8 +1,10 @@
-
+h1{
+    text-align: center;
+}
 .Pokedex-cards{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     
 }
